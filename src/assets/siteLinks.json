@@ -1,11 +1,11 @@
 [
   {
-    "icon": "Hexo-Blog",
+    "icon": "Blog",
     "name": "日常",
     "link": "https://0t63.github.io/"
   },
   {
-    "icon": "11ty-Blog",
+    "icon": "Blog",
     "name": "笔记",
     "link": "https://0t63.github.io/"
   }
